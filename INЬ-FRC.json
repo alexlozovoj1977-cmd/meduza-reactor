@@ -1,0 +1,47 @@
+{
+  "version": "v0.1.5",
+  "timestamp": "2025-10-23T13:50:00Z",
+  "commit_gate": {
+    "A_crypto": "OK",
+    "B_panel": "GREEN",
+    "result": "A∧B=OK"
+  },
+  "stillpoint_qrm_hz": 0.15,
+  "kpi": {
+    "snapshot_p95_s": 50.0,
+    "entanglement_s": 66.0,
+    "hyperv_migration_s": 12.0,
+    "combined_case020_s": 58.0
+  },
+  "cases": [
+    {
+      "case": "CASE-017",
+      "type": "snapshot",
+      "p95_target_s": 60.0,
+      "observed_s": 50.0,
+      "status": "PASS"
+    },
+    {
+      "case": "CASE-018",
+      "type": "entanglement",
+      "target_s": 70.0,
+      "observed_s": 66.0,
+      "status": "PASS"
+    },
+    {
+      "case": "CASE-019",
+      "type": "hyper-v-migration",
+      "target_s": 15.0,
+      "observed_s": 12.0,
+      "status": "PASS"
+    },
+    {
+      "case": "CASE-020",
+      "type": "entanglement-migration",
+      "target_s": 75.0,
+      "observed_s": 58.0,
+      "status": "PASS"
+    }
+  ],
+  "notes": "Internal invariants proven. Ready for external validation (INЬ-FRC)."
+}

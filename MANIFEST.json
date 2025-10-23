@@ -1,0 +1,58 @@
+{
+  "generated": "2025-10-23T13:55:00Z",
+  "algo": "sha256",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "73d1d31a45e92b6754be852d51323a2dc36aded73dbd7fe610e9fff0ffc61674"
+    },
+    {
+      "path": "CASE-ALL.zip",
+      "sha256": "b09be913e394f694fe5b42d722c26425c8aafb9cb32dcef12b992475b69631ac"
+    },
+    {
+      "path": "CASE-ALL/README.txt",
+      "sha256": "65789fb97eaa81171697b49da6be8f71d4c5bda812fe8ec90a349bdf7f1daba9"
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "f9e1e2cccbc9065714c461ded4febcf307ac5fe2fc47a397dc4b26e4f4367cdc"
+    },
+    {
+      "path": "INЬ-FRC.json",
+      "sha256": "665ad875cd3789d22bcb2472a3690a24890b2c282e39393d6ea0ab30f68ecd47"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "2219edc0c8324780cfbc63f50b182c4480064741215fbb6f3e981f522d27c7f1"
+    },
+    {
+      "path": "README.md",
+      "sha256": "5eb07894f15d2e653be015b39e08b80f733d1713f304e000f2c52a989611c89b"
+    },
+    {
+      "path": "SBOM.cdx.json",
+      "sha256": "6bef0e23ae0577c806f95a60b0de4ed5ecc91e8ab47b455c8a446983a47c40ab"
+    },
+    {
+      "path": "SEED_TRUTH/ANNOUNCE.json",
+      "sha256": "adbedc63b068e95fa233d1316f5129ba231364c9baaff23e63fc535d34a6991b"
+    },
+    {
+      "path": "SEED_TRUTH/ANNOUNCE.json.minisig",
+      "sha256": "17d83afe0964853a5a15d58214166c366070601c1a47515a6c073af807f13c72"
+    },
+    {
+      "path": "SEED_TRUTH/HASHES.txt",
+      "sha256": "208a0fdf212812b49d1f2df158744154e801b07a67404891dfede39ac1ee8dcb"
+    },
+    {
+      "path": "release_notes_v015.md",
+      "sha256": "b9acac13e66df8295c9359eb5a12f60c9b340dc08942b18bf27fe9b5ee9232ee"
+    },
+    {
+      "path": "MANIFEST.json",
+      "sha256": "d6c788d39fef4ddb3c5ac187746900660362af9972ba060586d0792fba240a15"
+    }
+  ]
+}

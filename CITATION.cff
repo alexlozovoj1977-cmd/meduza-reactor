@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "LOGOS-CORE v0.1.5 (SYN_042): INЬ-FRC External Validation Package"
+message: "Please cite this software using the metadata below."
+type: software
+version: "v0.1.5"
+authors:
+  - family-names: Lozovyi
+    given-names: Oleksandr
+repository-code: "https://github.com/USER/REPO"
+license: Apache-2.0
+date-released: "2025-10-23"

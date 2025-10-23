@@ -1,0 +1,28 @@
+{
+  "title": "LOGOS-CORE — QRM-0.15 Stillpoint (Final)",
+  "version": "v0.1.5",
+  "license": "Apache-2.0",
+  "publisher": "Олександр Лозовий",
+  "timestamp": "2025-10-23T10:30:00Z",
+  "artifacts": [
+    {
+      "path": "INЬ-FRC.json"
+    },
+    {
+      "path": "SBOM.cdx.json"
+    },
+    {
+      "path": "CASE-ALL.zip"
+    },
+    {
+      "path": "MANIFEST.json"
+    }
+  ],
+  "commit_gate": {
+    "A_crypto": "OK",
+    "B_panel": "GREEN",
+    "policy": "Stillpoint-0.15Hz-Active",
+    "qrm": "0.15 Hz"
+  },
+  "notes": "Stillpoint upgraded to 0.15 Hz. Stage 3 complete."
+}
